@@ -1,2 +1,2 @@
 # plugin.program.reboot
-An Addon That Will Reboot You Device running kodi if Media is not playing.
+An Addon That Will Reboot Your Device running kodi if Media is not playing.
